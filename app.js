@@ -12,7 +12,8 @@ const app = express();
 // List of allowed origins
 const allowedOrigins = [
   'https://ayush-sih-2024-frontend.vercel.app',
-  'https://chaitanyakadali.vercel.app'
+  'https://ayush-project.vercel.app',
+  'https://ayush.chaitanyaworks.com'
 ];
 
 // Dynamic origin function
